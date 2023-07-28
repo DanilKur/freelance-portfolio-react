@@ -42,7 +42,7 @@ const projects = [
 		gitHubLink: 'https://github.com/DanilKur/react-redux'
 	},
 	{
-		title: 'React fotm',
+		title: 'React form',
 		img: project05,
 		imgBig: project05Big,
 		gitHubLink: 'https://github.com/DanilKur/project-react-form'
