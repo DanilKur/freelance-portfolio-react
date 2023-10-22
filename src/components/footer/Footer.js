@@ -21,7 +21,7 @@ const Footer = () => {
 							</a>
 						</li>
 						<li className="social__item">
-							<a href="https://www.linkedin.com/feed/">
+							<a href="https://www.linkedin.com/in/danil-kurinnyi-8b9a37210/">
 								<img src={linkedIn} alt="Link" />
 							</a>
 						</li>

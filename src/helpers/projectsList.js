@@ -16,6 +16,12 @@ import project05Big from "./../img/projects/05-big.png";
 import project06 from "./../img/projects/06.png";
 import project06Big from "./../img/projects/06-big.png";
 
+import project07 from "./../img/projects/07.png";
+import project07Big from "./../img/projects/07-big.png";
+
+import project08 from "./../img/projects/08.png";
+import project08Big from "./../img/projects/08-big.png";
+
 const projects = [
 	{
 		title: 'Expense',
@@ -42,7 +48,7 @@ const projects = [
 		gitHubLink: 'https://github.com/DanilKur/react-redux'
 	},
 	{
-		title: 'React fotm',
+		title: 'React form',
 		img: project05,
 		imgBig: project05Big,
 		gitHubLink: 'https://github.com/DanilKur/project-react-form'
@@ -52,6 +58,18 @@ const projects = [
 		img: project06,
 		imgBig: project06Big,
 		gitHubLink: 'https://github.com/DanilKur/react-age'
+	},
+	{
+		title: 'Bionik',
+		img: project07,
+		imgBig: project07Big,
+		gitHubLink: 'https://github.com/DanilKur/Bionik'
+	},
+	{
+		title: 'Funiro',
+		img: project08,
+		imgBig: project08Big,
+		gitHubLink: 'https://github.com/DanilKur'
 	},
 ];
 
