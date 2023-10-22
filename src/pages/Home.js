@@ -11,7 +11,7 @@ const Home = () => {
 							<h2 className="title-2">Frontend</h2>
 							<p>
 								JavaScript, TypeScript, ReactJS, React-Redux, React-Router,  
-								React-Hooks, HTML, CSS(SASS), NPM, BootStrap, GIT
+								React-Hooks, HTML, CSS(SCSS), NPM, BootStrap, GIT
 							</p>
 						</li>
 					</ul>
