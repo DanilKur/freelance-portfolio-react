@@ -27,48 +27,56 @@ const projects = [
 		title: 'Expense',
 		img: project01,
 		imgBig: project01Big,
+		skills: 'HTML, CSS, React',
 		gitHubLink: 'https://github.com/DanilKur/React-project'
 	},
 	{
 		title: 'Order food',
 		img: project02,
 		imgBig: project02Big,
+		skills: 'HTML, CSS, React, Firebase',
 		gitHubLink: 'https://github.com/DanilKur/react-order'
 	},
 	{
 		title: 'React post',
 		img: project03,
 		imgBig: project03Big,
+		skills: 'HTML, CSS, React',
 		gitHubLink: 'https://github.com/DanilKur/react-post'
 	},
 	{
 		title: 'Redux cart',
 		img: project04,
 		imgBig: project04Big,
+		skills: 'HTML, CSS, React, Redux, Firebase',
 		gitHubLink: 'https://github.com/DanilKur/react-redux'
 	},
 	{
 		title: 'React form',
 		img: project05,
 		imgBig: project05Big,
+		skills: 'HTML, CSS, React',
 		gitHubLink: 'https://github.com/DanilKur/project-react-form'
 	},
 	{
 		title: 'React age',
 		img: project06,
 		imgBig: project06Big,
+		skills: 'HTML, CSS, React',
 		gitHubLink: 'https://github.com/DanilKur/react-age'
 	},
 	{
 		title: 'Bionik',
 		img: project07,
 		imgBig: project07Big,
+		skills: 'HTML, CSS, JavaScript',
 		gitHubLink: 'https://github.com/DanilKur/Bionik'
 	},
 	{
 		title: 'Funiro',
 		img: project08,
 		imgBig: project08Big,
+		skills: 'HTML, CSS, JavaScript',
 		gitHubLink: 'https://github.com/DanilKur'
 	},
 ];
