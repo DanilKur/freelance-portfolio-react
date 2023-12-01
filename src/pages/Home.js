@@ -8,10 +8,10 @@ const Home = () => {
 				<div className="container">
 					<ul className="content-list">
 						<li className="content-list__item">
-							<h2 className="title-2">Frontend</h2>
+							<h2 className="title-2">Front-end</h2>
 							<p>
 								JavaScript, TypeScript, ReactJS, React-Redux, React-Router,  
-								React-Hooks, HTML, CSS(SCSS), NPM, BootStrap, GIT
+								React-Hooks, HTML, CSS(SCSS), NPM, BootStrap, GIT, Firebase ,Webpack
 							</p>
 						</li>
 					</ul>
