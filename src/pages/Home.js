@@ -10,8 +10,8 @@ const Home = () => {
 						<li className="content-list__item">
 							<h2 className="title-2">Front-end</h2>
 							<p>
-								JavaScript, TypeScript, ReactJS, React-Redux, React-Router,  
-								React-Hooks, HTML, CSS(SCSS), NPM, BootStrap, GIT, Firebase ,Webpack
+								HTML, CSS(SCSS), JavaScript, ReactJS, React-Redux, React-Router,  
+								React-Hooks, NPM, BootStrap, GIT, Firebase, Webpack, API
 							</p>
 						</li>
 					</ul>
