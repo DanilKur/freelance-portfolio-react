@@ -13,7 +13,7 @@ const Header = () => {
 				<div className="header__text">
 					<p>with passion for learning and creating.</p>
 				</div>
-				<a href="https://cv.djinni.co/5b/d3a46b7403a7fb9b5f92c7247486f7/Danil_Kurinnyi__Front-end_Developer_.pdf" className="btn">
+				<a href="https://cv.djinni.co/65/aabb2deb43cf9eeaca0e550ed5307e/Danil_Kurinnyi__Front-end_Developer_.pdf" className="btn">
 					Download CV
 				</a>
 			</div>
