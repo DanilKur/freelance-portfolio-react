@@ -21,7 +21,7 @@ const Footer = () => {
 						</li>
 					</ul>
 					<div className="copyright">
-						<p>© 2023</p>
+						<p>© 2024</p>
 					</div>
 				</div>
 			</div>
