@@ -46,8 +46,8 @@ const projects = [
 	},
 	{
 		title: 'Redux cart',
-		img: project04,
-		imgBig: project04Big,
+		img: project04-,
+		imgBig: project04Big-,
 		skills: 'HTML, CSS, React, Redux, Firebase',
 		gitHubLink: 'https://github.com/DanilKur/react-redux'
 	},
